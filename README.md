@@ -1,4 +1,10 @@
-# spirals
+# This project has moved to
+
+### https://github.com/sharp-apps/spirals
+
+---
+
+## spirals
 
 Explore and generate different Spirals with SVG
 
